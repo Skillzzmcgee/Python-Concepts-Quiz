@@ -5,7 +5,7 @@ Author: Trent Johnson
 Description: This program consists of a breezypythongui based interface, which initially prompts the user of
 the directions/instructions of the quiz, followed by the quiz beginning once the instructions box is closed and the
 "Begin" button has been selected. A current time clock is displayed to the user in the top right corner of the program which is
-utilzed with the time module to record the users amount of time taken to complete the quiz. The quiz is multiple-choice based and
+utilized with the time module to record the users amount of time taken to complete the quiz. The quiz is multiple-choice based and
 consists of 10 questions based on Python concepts, which uses a text file to read the questions from. The user will select the radio-button
 answer in which they believe is the correct answer to the question displayed, followed by selecting the "Submit" button. If the users answer
 to the question was correct it will be displayed as either "Correct!", or "Incorrect!" within the results box. Once all 10 questions have been
